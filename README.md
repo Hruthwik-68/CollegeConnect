@@ -1,5 +1,3 @@
-﻿# CollegeConnect
-
 
 # College Connect
 
