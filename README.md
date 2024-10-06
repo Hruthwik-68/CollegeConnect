@@ -103,14 +103,16 @@ Create a new branch: git checkout -b feature/YourFeature.
 Make your changes and commit them: git commit -m 'Add your feature'.
 Push to the branch: git push origin feature/YourFeature.
 Create a Pull Request.
+
+
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
 
 Contact
-For any questions, suggestions, or feedback, feel free to contact me:
+For more information or queries, please contact the project owner:
 
-Name: Hruthwik M
-Email: hruthwik6@example.com
-LinkedIn: linkedin.com/in/hruthwik-m
-GitHub: Hruthwik-68
+Hruthwik M
+[LinkedIn](https://www.linkedin.com/in/hruthwik-m) | [GitHub](https://github.com/Hruthwik-68)
+
 Thank you for choosing College Connect! We hope you find it beneficial in enhancing student engagement and collaboration.
