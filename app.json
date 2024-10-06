@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "College_Connect",
+    "slug": "College_Connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo_pic.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/cccc.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo_pic.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.college.college"
+
+    },
+    "web": {
+      "favicon": "./assets/logo_pic.png"
+    }
+  }
+}
