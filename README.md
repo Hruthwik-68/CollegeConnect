@@ -1,7 +1,6 @@
-
 # College Connect
 
-**College Connect** is an innovative platform designed to enhance student engagement and collaboration within educational institutions. This application allows students to create profiles, share achievements, post questions, and form learning communities, fostering a supportive environment for academic success.
+**College Connect** is an innovative mobile application designed to enhance student engagement and collaboration within educational institutions. This app allows students to create profiles, share achievements, post questions, and form learning communities, fostering a supportive environment for academic success.
 
 ## Table of Contents
 
@@ -38,6 +37,7 @@
 - Node.js (version 14.x or later)
 - npm (Node Package Manager)
 - Appwrite account and setup
+- Expo CLI (for development)
 - Git (optional, but recommended)
 
 ## Installation
@@ -52,17 +52,18 @@ Use Git to clone the repository or download it as a ZIP file.
 git clone https://github.com/Hruthwik-68/CollegeConnect.git
 Step 2: Navigate to the Project Directory
 
+
 cd CollegeConnect
 Step 3: Install Dependencies
 Run the following command to install the required packages:
+
 
 
 npm install
 Step 4: Set Up Environment Variables
 Create a .env file in the root directory of your project and add the following configuration values:
 
-plaintext
-Copy code
+
 APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
 APPWRITE_PROJECT_ID=YOUR_PROJECT_ID
 APPWRITE_DATABASE_ID=YOUR_DATABASE_ID
@@ -88,8 +89,11 @@ To run the application locally, use the following command:
 
 
 npm start
+Open in Expo Go
+You can use the Expo Go app on your mobile device to scan the QR code displayed in your terminal or browser, or you can use an Android/iOS emulator.
+
 Access the Application
-Open your web browser and navigate to http://localhost:3000 to view the application.
+Once the application is running, you can interact with it on your mobile device or emulator.
 
 Contributing
 We welcome contributions from the community! To contribute:
@@ -110,6 +114,3 @@ Email: hruthwik6@example.com
 LinkedIn: linkedin.com/in/hruthwik-m
 GitHub: Hruthwik-68
 Thank you for choosing College Connect! We hope you find it beneficial in enhancing student engagement and collaboration.
-
-
-
