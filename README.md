@@ -108,13 +108,10 @@ Contact
 For any questions, suggestions, or feedback, feel free to contact me:
 
 Name: Hruthwik M
-Email: your.email@example.com
+Email: hruthwik6@example.com
 LinkedIn: linkedin.com/in/hruthwik-m
 GitHub: Hruthwik-68
 Thank you for choosing College Connect! We hope you find it beneficial in enhancing student engagement and collaboration.
 
 
-### Notes:
-- Replace the placeholder email (`your.email@example.com`) with your actual email address.
-- Ensure that the links for LinkedIn and GitHub are correct and lead to your profiles.
-- Feel free to modify any sections to better fit your project's specifics or personal preferen
+
