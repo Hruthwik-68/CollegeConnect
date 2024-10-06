@@ -12,7 +12,7 @@
 - [Configuration](#configuration)
 - [Running the Application](#running-the-application)
 - [Contributing](#contributing)
-- [License](#license)
+- [LICENSE](./LICENSE)
 - [Contact](#contact)
 
 ## Features
@@ -43,6 +43,32 @@
 ## Installation
 
 Follow the steps below to set up the College Connect application on your local machine.
+
+## Usage
+
+Once the installation is complete, you can start using the application. Here’s how:
+
+- **Sign Up**: Create an account using your email and password.
+- **Create Profile**: Set up your profile with relevant details.
+- **Share Achievements**: Post your achievements and view others’ contributions.
+- **Engage in Q&A**: Ask questions and provide solutions to help fellow students.
+- **Join Communities**: Participate in communities that align with your interests.
+
+## Configuration
+
+Ensure that your Appwrite project is properly set up. Follow these steps:
+
+1. **Create Collections**: Set up the necessary collections in your Appwrite database as per the project requirements.
+2. **Configure User Roles**: Ensure that user roles (students, faculty, alumni) are defined in your Appwrite setup.
+
+## Running the Application
+
+### Start the Development Server
+
+To run the application locally, use the following command:
+
+
+npm start
 
 ### Step 1: Clone the Repository
 
